@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 361496834
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9e06d2c6660e03dcd81fec3cfecde7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/sfx/box.wav
+- Assets/sfx/bouncers.wav
+- Assets/sfx/flyingNails.wav
+- Assets/sfx/lamp.wav
+- Assets/sfx/spikes.wav
+- Assets/sfx/giantNail.wav
+- Assets/sfx/entrance.wav
+- Assets/sfx/continuousSawblade.wav
+Dependencies: []

@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1041189524
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: newattacks
+      Dependencies: {}
+    Info_1:
+      Name: sounds
+      Dependencies: {}

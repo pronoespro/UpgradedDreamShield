@@ -1,2 +1,3 @@
-# UpgradedDreamShield
- Makes the Dream Shield be better for certain situations
+# Upgraded_Dream_Shield
+
+A mod for the game Hollow Knight.
